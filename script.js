@@ -25,7 +25,7 @@ document.addEventListener('DOMContentLoaded', function() {
         `;
         feedbackDisplay.appendChild(feedback);
 
-        // Clear the form
+        //Clearing the form
         form.reset();
     });
 });
